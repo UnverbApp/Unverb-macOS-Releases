@@ -9,7 +9,7 @@
     <sparkle:shortVersionString>2026-03-27-22-39</sparkle:shortVersionString>
     <enclosure
       url="https://github.com/UnverbApp/Unverb-macOS-Releases/releases/download/build/2026-03-27-22-39/Unverb-2026-03-27-22-39.dmg"
-      sparkle:edSignature=04sfs7sPSvndkDKsQpk10ryUK5HvNnTO+qK4TunUkf+2zXDRXUMGPhRtQy+xx7J4tiepqZOXucIjQQZQLSJZCw== length=14398502
+      sparkle:edSignature="04sfs7sPSvndkDKsQpk10ryUK5HvNnTO+qK4TunUkf+2zXDRXUMGPhRtQy+xx7J4tiepqZOXucIjQQZQLSJZCw=="
       length="14398502"
       type="application/octet-stream" />
   </item>
