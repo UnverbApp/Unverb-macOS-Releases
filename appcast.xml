@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Unverb</title>
+    <item>
+    <title>Unverb 2026-03-27-22-39</title>
+    <pubDate>Fri, 27 Mar 2026 21:47:29 +0000</pubDate>
+    <sparkle:version>2026-03-27-22-39</sparkle:version>
+    <sparkle:shortVersionString>2026-03-27-22-39</sparkle:shortVersionString>
+    <enclosure
+      url="https://github.com/UnverbApp/Unverb-macOS-Releases/releases/download/build/2026-03-27-22-39/Unverb-2026-03-27-22-39.dmg"
+      sparkle:edSignature=04sfs7sPSvndkDKsQpk10ryUK5HvNnTO+qK4TunUkf+2zXDRXUMGPhRtQy+xx7J4tiepqZOXucIjQQZQLSJZCw== length=14398502
+      length="14398502"
+      type="application/octet-stream" />
+  </item>
+    <!-- ITEMS -->
+  </channel>
+</rss>
