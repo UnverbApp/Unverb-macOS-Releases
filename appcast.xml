@@ -21,7 +21,7 @@
       <sparkle:shortVersionString>2026-04-30-22-54</sparkle:shortVersionString>
       <enclosure
         url="https://github.com/UnverbApp/Unverb-macOS-Releases/releases/download/2026-04-30-22-54/Unverb-2026-04-30-22-54.dmg"
-        lYeT+dS5kRqjRMJEB6noWKJmCXMs/RaCUm8tWzZXy18Kjg+VXzHh1sUh/WZ/ixinMq4KeEluCe+KnvGxn5hQCQ==
+        sparkle:edSignature="lYeT+dS5kRqjRMJEB6noWKJmCXMs/RaCUm8tWzZXy18Kjg+VXzHh1sUh/WZ/ixinMq4KeEluCe+KnvGxn5hQCQ=="
         length="13801185"
         type="application/octet-stream" />
     </item>
@@ -33,7 +33,7 @@
       <sparkle:shortVersionString>2026-05-01-13-43</sparkle:shortVersionString>
       <enclosure
         url="https://github.com/UnverbApp/Unverb-macOS-Releases/releases/download/2026-05-01-13-43/Unverb-2026-05-01-13-43.dmg"
-        TPEVmhjxSx8/apD3rqAjolVW7Ta9X5/i7LM1AzR7b1gZjAtI1BWVRP5I1N7mC0FHnxuX4oeTZbfsUspagRNEBQ==
+        sparkle:edSignature="TPEVmhjxSx8/apD3rqAjolVW7Ta9X5/i7LM1AzR7b1gZjAtI1BWVRP5I1N7mC0FHnxuX4oeTZbfsUspagRNEBQ=="
         length="14053401"
         type="application/octet-stream" />
     </item>
