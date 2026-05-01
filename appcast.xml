@@ -73,6 +73,18 @@
         length="14386745"
         type="application/octet-stream" />
     </item>
+        <item>
+      <title>Unverb 2026-05-02-00-01 (preview)</title>
+      <pubDate>Fri, 01 May 2026 22:11:57 +0000</pubDate>
+      <sparkle:channel>preview</sparkle:channel>
+      <sparkle:version>2026_05_02_00_01</sparkle:version>
+      <sparkle:shortVersionString>2026_05_02_00_01</sparkle:shortVersionString>
+      <enclosure
+        url="https://github.com/UnverbApp/Unverb-macOS-Releases/releases/download/2026-05-02-00-01/Unverb-2026-05-02-00-01.dmg"
+        sparkle:edSignature="gYEzoZ7rdAIo9+L3DFVQ+ciKeCibWjYAw2CCE1yT2fgJ3AaLhx/ZySAwZQWzbv0j0uMiE40BRUesgdeteO2vCw=="
+        length="14400178"
+        type="application/octet-stream" />
+    </item>
     <!-- ITEMS -->
   </channel>
 </rss>
